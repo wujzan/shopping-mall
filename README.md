@@ -2,6 +2,7 @@
 
 介紹:
 基於Bootstrap 簡易jsp+MySQL購物車,具有後台管理功能
+
 系統設計規格書: [.docx](https://github.com/wujzan/shopping-mall/blob/main/%E7%B3%BB%E7%B5%B1%E8%A8%AD%E8%A8%88%E8%A6%8F%E6%A0%BC%E6%9B%B8.docx)
 
 ![image](https://github.com/wujzan/shopping-mall/blob/main/DemoPic/main.PNG)
